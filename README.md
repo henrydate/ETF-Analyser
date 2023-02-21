@@ -44,16 +44,12 @@ It's time to identify fraudulent transactions. In this part of the repo, I have 
 
 ### Visual Data Analysis 
 
-I have created a report for fraudulent transactions of some of the top customers of the firm. To achieve this task, I have performed a visual data analysis of fraudulent transactions using Pandas, Plotly Express, hvPlot, and SQLAlchemy to create the visualizations. You can find the answers to these questions under Notebooks/visual_data_analysis.ipynb
+I have performed a visual data analysis of fraudulent transactions using Pandas, hvPlot, and SQLAlchemy to create the visualizations. The answers to these questions is within visual_data_analysis.ipynb
 
-* Verify if there are any fraudulent transactions in the history of two of the most important customers of the firm. For privacy reasons, you only know that their cardholders' IDs are 18 and 2.
+## Contributors
+> email: henrydate1@gmail.com |
+> [GitHub](https://github.com/henrydate) |
+> [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
-  * Using hvPlot, create a line plot representing the time series of transactions over the course of the year for each cardholder. In order to compare the patterns of both cardholders, create a line plot containing both lines.
+---
 
-  * What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction? Explain your rationale.
-
-* The CEO of the biggest customer of the firm suspects that someone has used her corporate credit card without authorization in the first quarter of 2018 to pay quite expensive restaurant bills. You are asked to find any anomalous transactions during that period.
-
-  * Using Plotly Express, create a series of six box plots, one for each month, in order to identify how many outliers per month for cardholder ID 25.
-
-  * Do you notice any anomalies? Describe your observations and conclusions.
