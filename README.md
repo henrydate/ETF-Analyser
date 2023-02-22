@@ -47,9 +47,8 @@ It's time to identify fraudulent transactions. In this part of the repo, I have 
 I have performed a visual data analysis of fraudulent transactions using Pandas, hvPlot, and SQLAlchemy to create the visualizations. The answers to these questions is within visual_data_analysis.ipynb
 
 ## Contributors
-> email: henrydate1@gmail.com |
+> Email: Henrydate1@gmail.com |
 > [GitHub](https://github.com/henrydate) |
 > [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
 ---
-
